@@ -1,0 +1,6 @@
+module Pods_plantgo_plantgoTests {
+  umbrella header "Pods-plantgo-plantgoTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
